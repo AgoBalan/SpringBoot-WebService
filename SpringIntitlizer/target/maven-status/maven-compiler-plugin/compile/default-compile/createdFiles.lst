@@ -1,0 +1,6 @@
+com\SpringLesson\SpringIntitlizer\SpringIntitlizerApplication.class
+com\SpringLesson\SpringIntitlizer\student\StudentController.class
+com\SpringLesson\SpringIntitlizer\student\Student.class
+com\SpringLesson\SpringIntitlizer\student\StudentRepository.class
+com\SpringLesson\SpringIntitlizer\student\StudentService.class
+com\SpringLesson\SpringIntitlizer\student\StudentConfig.class
