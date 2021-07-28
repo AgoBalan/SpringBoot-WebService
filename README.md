@@ -18,14 +18,12 @@
 <li><a href="#code">Show me the code</a></li>
 </ul>
 <h2><a id="user-content-about--bulb" class="anchor" aria-hidden="true" href="#about--bulb"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About <a name="user-content-about"></a> <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji></h2>
-<p>Software Testing is a skill that you must fully grasp as a software engineer. It ensures that any code you write to production is more likely to contain less bugs.</p>
-<p>In this repository you will see everything about some types of tests implemented that were presented in the <a href="https://amigoscode.com/courses/software-testing" rel="nofollow">course</a>:</p>
-<ul>
-<li>Unit Testing</li>
-<li>Integration Testing</li>
-<li>Testing External Services</li>
-<li>Mocking with Mockito</li>
-<li>Test Driven Development -<code>TDD</code></li>
+<p> This course will br very useful to the beginners who wants to write code to create an API</p>
+<p>In this repository you will see everything about how to implement types of Webservices</p>
+<li>GET</li>
+<li>POST</li>
+<li>DELETE</li>
+<li>PUT</li>
 </ul>
 <h2><a id="user-content-architecture-diagram--pencil2" class="anchor" aria-hidden="true" href="#architecture-diagram--pencil2"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Architecture Diagram <a name="user-content-architecture"></a> <g-emoji class="g-emoji" alias="pencil2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270f.png">✏️</g-emoji></h2>
 <ul>
